@@ -1,5 +1,5 @@
 console.log('object');
-let i = 0
-for (let i = 0; i < 10; i++) {
-    console.log(i);
+let g = []
+while (true) {
+    console.log('i');
 }
