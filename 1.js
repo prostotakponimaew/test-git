@@ -1,4 +1,5 @@
 console.log('object');
-console.log('123');
-console.log('123');
-console.log('123');
+let i = 0
+for (let i = 0; i < 10; i++) {
+    console.log(i);
+}
